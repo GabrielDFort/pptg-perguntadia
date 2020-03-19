@@ -1,10 +1,10 @@
 [
   {
     "pergunta": "Cachorro ou gato?",
-    "opcoes": [ "dog2", "cat2" ]
+    "opcoes": [ ""🐕, "🐱" ]
   },
   {
     "pergunta": "Computador ou smartphone?",
-    "opcoes": [ "computer", "iphone" ]
+    "opcoes": [ "💻", "📱" ]
   }
 ]
